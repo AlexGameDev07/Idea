@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#3f91cc"></solid>
+            <corners android:radius="50dp"></corners>
+            <stroke android:width="2dp" android:color="#95D2FF" android:dashWidth="2dp"></stroke>
+            <gradient android:angle="@integer/material_motion_duration_medium_2" android:startColor="#2F97EC" android:endColor="#BAE0FF" android:gradientRadius="@dimen/cardview_compat_inset_shadow" android:type="linear"></gradient>
+        </shape>
+    </item>
+</selector>
